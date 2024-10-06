@@ -1,5 +1,5 @@
 
-DJANGO_SECRET_KEY=PV-6h-bwR5b0H2l5pDRdAld5JSPU3cu9wpKgtykb8jE
+DJANGO_SECRET_KEY=cge9gaOmlI7JeOSz_JrTAiVnw_RtDQ-kATHM85yr_2w
 
 DJANGO_STATIC_ROOT=/home/wmb/www/static
 
